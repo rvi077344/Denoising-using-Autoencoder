@@ -1,5 +1,5 @@
 # Denoising-using-Autoencoder
-#Reqirements:
+# Reqirements:
 * Tensorflow2.0
 * Numpy
 * CNN
